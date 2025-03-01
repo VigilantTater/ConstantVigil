@@ -21,3 +21,5 @@ To get more games, there are also a few steps.
 4. Click all of the links one by one to make sure the installation worked.
 5. Open "NightVigil34.html"
 6. Click any link under SunsetVigil.
+# OH MY GOD SO MANY GAMES I GIVE UP
+1. FOLLOW THE PREVIOUS STEPS BUT WITH ADDGAMES AND addgames.html, OK!?!?!?!?!?!??!?!?!?1?!?
