@@ -1,6 +1,6 @@
 Ok, looks like you have installed ConstantVigil Games. Nice! From here, you'll want to go into the folder "Vigilant", and open 
-"HomePage.html". After that, you'll want to install our release "AddGames". Then, you should have all of your games on a portal
-in "HomePage.html". Happy Gaming!
+"HomePage.html". After that, you'll want to install our release "AddGames". Then, you should have all of your games on a 
+portal in "HomePage.html". Happy Gaming!
 
 
 
